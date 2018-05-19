@@ -18,6 +18,7 @@ or even three''')
 a = "hello"
 b = "world"
 print (a+" "+b)
+print (a," ",b)
 
 a+= " everyone" # strings are immutable! this creates a new string
 print (a)
